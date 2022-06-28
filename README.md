@@ -1,2 +1,2 @@
-# Shoping-sandbox
+# Online-shopping-app
 Created with CodeSandbox
